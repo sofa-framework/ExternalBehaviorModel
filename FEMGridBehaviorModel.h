@@ -27,7 +27,7 @@
 #include <ExternalBehaviorModel/config.h>
 
 // SOFA includes
-#include <SofaGraphComponent/InteractingBehaviorModel.h>
+#include <ExternalBehaviorModel/InteractingBehaviorModel.h>
 
 
 // internal stuff, here it is using SOFA components that could be replaced by any library
